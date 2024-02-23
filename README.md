@@ -68,3 +68,21 @@ Hakkim is really happy to have a service such as ‘KHABO’ because he does not
 ## Specification:
 
 - **Technology Stack:** MERN stack, OpenAI, Google Maps
+
+## Feasibility Analysis
+
+### Technical Feasibility:
+
+The system requirements are technically feasible. Our chosen framework which is MERN Stack can easily support secure user authentication, profile management, meal planning, customization delivery management, and user interface/experience requirements. Integration with Google Maps for location services and encryption for data security are also well-established practices. We can also handle Subscriptions but for the payment method we can use a dummy system just to show that it is working for this project (Stripe can be implemented for this case). We can use Open AI to implement our chat bot without any issue.
+
+### Operational Feasibility:
+
+The system appears to be operationally feasible. It aligns with current trends in the food delivery industry, such as meal customization and health-conscious options. The system’s focus on user-friendly interfaces and clear instructions should facilitate user adoption.
+
+### Economic Feasibility:
+
+The system does seem economically feasible and costs would include development, maintenance, and operational costs (such as delivery and ingredient sourcing) but benefits would come from user subscriptions and potential partnerships with health and wellness entities.
+
+### Schedule Feasibility:
+
+Considering our Team of four, we can easily build this product but because of our inexperience with MERN stack it may require some time which is why we are trying to start as early as possible, so that we can keep up with the sprints and finish building our product before our deadline.

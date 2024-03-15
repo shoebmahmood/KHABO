@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 import connectDB from './config/db.js';
 const port = process.env.PORT;
-connectDB();
+connectDB();   //cnnct to mongoDB
 const app = express ();
 
 app.get('/', (req, res) => {

@@ -6,6 +6,7 @@ import bgVideo from '../assets/background.mp4';
 export default function Signup() {
 
     return (
+    <div className="App1">
       <section>
           <video style={{ position: 'fixed', right: 0, bottom: 0, minWidth: '100%', minHeight: '100%', zIndex: 1 }} src={bgVideo} autoPlay loop muted />
           <div className="register">
@@ -24,7 +25,7 @@ export default function Signup() {
 
                       <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
                         <span style={{ fontSize: '0.8em' }}>Already have an account?</span>
-                        <a href="/" style={{ fontSize: '0.8em' }}>Log In</a>
+                        <a href="/Login" style={{ fontSize: '0.8em' }}>Log In</a>
                       </div>
   
                       <button className='btn'>Sign Up</button>
@@ -35,6 +36,7 @@ export default function Signup() {
               </div>
           </div>
       </section>
+    </div>
     )
   }
   

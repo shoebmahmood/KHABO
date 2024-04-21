@@ -2,7 +2,7 @@
 
 Welcome to KHABO, your personalized meal delivery service designed to simplify meal planning, cater to your dietary needs, and ensure convenience in your busy lifestyle. With KHABO, you can effortlessly plan your meals, customize packages, and enjoy delicious, nutritious food delivered right to your doorstep.
 
-#Description
+Description
 
 A food based website where users can create food listings. Other users if they can pprovide the lsiting can contact with the listing creator. Users can search for specific listing.
 
